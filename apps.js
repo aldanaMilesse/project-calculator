@@ -138,11 +138,3 @@ function probar (){
 function redondear (){
     firstValue = firstValue.toFixed(2);
 }
-
-// function button "."
-/* buttonPunto.addEventListener('click', (e) => {
-    if(input.value.includes('.'))
-    {
-        button.disabled = false;
-    }
-})*/ 
